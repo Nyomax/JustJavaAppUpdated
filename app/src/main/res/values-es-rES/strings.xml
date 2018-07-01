@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJavaAppUpdated</string>
+    <string name="chocoCheckBox_text">Chocolate</string>
+    <string name="quantity_text">Cantidad</string>
+    <string name="quantity_value">0</string>
+    <string name="title">Ingredientes</string>
+    <string name="whipCheckBox_text">Crema batida</string>
+    <string name="orderButton_text">Ordenar</string>
+    <string name="price_title">Precio</string>
+    <string name="orderSummary_text">Resumen del pedido</string>
+    <string name="edit_text">"cuál es tu nombre "</string>
+    <string name="decrementButton_text">-</string>
+    <string name="incrementButton_text">+</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="total">Total:</string>
+    <string name="orderSummary_name">Nombre</string>
+</resources>

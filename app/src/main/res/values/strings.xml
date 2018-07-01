@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJavaAppUpdated</string>
+    <string name="edit_text">What\'s your name?</string>
+    <string name= "title">toppings</string>
+    <string name= "whipCheckBox_text">whipped Cream</string>
+    <string name= "chocoCheckBox_text">Chocolate</string>
+    <string name= "quantity_text">quantity</string>
+    <string name= "quantity_value">0</string>
+    <string name= "incrementButton_text">+</string>
+    <string name= "orderSummary_text">Order Summary</string>
+    <string name= "price_title">Price</string>
+    <string name= "orderButton_text">order</string>
+    <string name="decrementButton_text">-</string>
+    <string name="total">Total:</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="orderSummary_name">Name:<xliff:g id="userInputEditText" example="Amy">%s</xliff:g></string>
+</resources>
